@@ -16,8 +16,9 @@ Este script compila plugins `.zip` para o formato `.phar`, para uso no PocketMin
 
 2. Clone o repositório:
 
-git clone <link-do-repositório>
-cd <diretório-do-repositório>
+git clone https://github.com/SoatrsOfc/Compile-Plugins
+
+cd Compile-Plugins
 
 
 3. Torne o script executável:
