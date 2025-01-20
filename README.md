@@ -11,8 +11,9 @@ Este script compila plugins `.zip` para o formato `.phar`, para uso no PocketMin
 
 1. Instale o PHP:
 
-   ```bash
+```bash
    pkg install php
+```
 
 2. Clone o repositório:
 
