@@ -24,17 +24,16 @@ cd Compile-Plugins
 
 3. Torne o script executável:
 
+```bash
 chmod +x install.sh
-
+```
 
 4. Execute o script para compilar o plugin:
 
+```bash
 ./install.sh /caminho/para/o/plugin.zip
-
-
+```
 
 Pronto! O plugin será compilado para o formato .phar.
 
 by: SoatrsOfcBr
-
-Isso é o essencial, direto e objetivo!
