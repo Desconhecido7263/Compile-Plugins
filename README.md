@@ -37,4 +37,4 @@ chmod +x install.sh
 
 Pronto! O plugin será compilado para o formato .phar.
 
-by: SoatrsOfcBr
+by: Desconhecido7263
